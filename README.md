@@ -8,3 +8,4 @@ A simple Rust Implementation of Apriori Algorithm for finding Frequent sets and 
 - Running 'cargo run' directly to get results
 - the results will be written in file: associationRule_minSupprot_minConfidence.txt
 - Running 'cargo doc --open' for documentation creation and view documentation for implementation details
+- The dataset provided is groceries.csv with 9835 payment records and 169 goods
